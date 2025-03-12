@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christa Rachel Varghese, Im a BCA Graduate and a Passionate individual in the feild of Information Technology.
-- 👀 I’m interested in developing Softwares, Building Websites, Apps, Analysing datas and creating dashboards.
+- 👀 I’m interested in Developing Softwares, Building Websites, Apps, Analysing Datas and Creating Dashboards.
 - 🌱 I’m currently learning Power Bi.
 - 💞️ I’m looking to collaborate on Interesting Projects and Compete in Hackathons.
 - 📫 To reach me send a mail to christarachel2003@gmail.com
